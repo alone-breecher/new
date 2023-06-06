@@ -1,0 +1,19 @@
+POST /My HTTP/2
+Host: 37.9.168.134
+Cookie: PHPSESSID=n6kf6vb6c4pudt2268u6cnav0u; _ga=GA1.1.432434440.1686055087; _gid=GA1.1.1349738163.1686055087; _gat_UA-75057142-1=1; _hjSessionUser_1581790=eyJpZCI6ImY1M2RjY2RlLWFiNDAtNTQ3YS05YWI3LWRmMjlmZDQ3M2ExYyIsImNyZWF0ZWQiOjE2ODYwNTUxMTk5NzMsImV4aXN0aW5nIjpmYWxzZX0=; _hjFirstSeen=1; _hjIncludedInSessionSample_1581790=0; _hjSession_1581790=eyJpZCI6IjM3YTBiZDg1LTdmZTUtNGJjZC04MzYzLTY3NWY5NTM3MjJjOSIsImNyZWF0ZWQiOjE2ODYwNTUxMjAwMTAsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 208
+Origin: https://37.9.168.134
+Referer: https://37.9.168.134/My
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Te: trailers
+
+n1148945300d56576399=4abaef2a7d973f2be2842b915675d4104fbfe7257f&username=wwwwwwwww&password=bde92a78963f27eb8e2b945b74d61e43b8e6217f&signSubmit=Sign+in&sgn1339189438d760837692=0558f13304dad228bdaa53ed7f3896c5
